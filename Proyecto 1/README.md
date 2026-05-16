@@ -10,6 +10,8 @@ Librerias que debes tener descargadas :
 - plotly
 - matplotlib
 - string
+- **IMPORTANTE** se debe ejecutar "python -m spacy download es_core_news_sm" en la terminal en la ruta donde se tenga a python para que se pueda utilizar sin problemas
+
 
 Datos :
   Puedes descargar los datos de las TED talks  ,llamado "ted_talks_es.csv" en [https://www.kaggle.com/datasets/miguelcorraljr/ted-ultimate-dataset] ,sin embargo cuando clonas el repositorio ya vienen los datos incluidos.
